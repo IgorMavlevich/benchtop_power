@@ -2,6 +2,8 @@ corner_radius = 2.5;
 board_size = [132.5, 48];
 bolt_distance = [122, 38.5];
 
+switch_position=[-39.5,19.5,0];
+
 terminal_count = 8;
 terminal_spacing = 103/(terminal_count-1);
 
