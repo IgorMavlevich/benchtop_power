@@ -66,7 +66,7 @@ module pins(){
         pin();
     }
     //Switch
-    translate([-39.5,19.5,0])
+    translate(switch_position)
     for (i=[-2:2]){
         translate([i*11.5/4,0,0])
         pin();
